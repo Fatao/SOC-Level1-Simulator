@@ -110,7 +110,7 @@ This project will include tracked KPIs such as:
 
 This project is featured in my portfolio as a **live SOC Analyst simulation**, showing real-world investigative workflows and analytical thinking. You can view it at:
 
-🔗 [myportfolio.site/projects/soc-simulator](#)
+🔗 [https://fatao.github.io/#](#)
 
 ---
 
